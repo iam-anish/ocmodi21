@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocmodi21&show_icons=true&locale=en" alt="ocmodi21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ocmodi21&" alt="ocmodi21" /></p>
+<a href="https://github.com/ocmodi21/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ocmodi21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

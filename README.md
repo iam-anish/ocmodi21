@@ -19,3 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![Om Modi's 30 days github activity graph](https://activity-graph.herokuapp.com/graph?username=ocmodi21&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# Leetcode Stats 🏆
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ocmodi21?ext=heatmap)

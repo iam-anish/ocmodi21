@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Om Modi's 30 days github activity graph](https://activity-graph.herokuapp.com/graph?username=ocmodi21&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Om's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ocmodi21&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ocmodi21/github-readme-activity-graph)
 
 # Leetcode Stats 🏆
 
